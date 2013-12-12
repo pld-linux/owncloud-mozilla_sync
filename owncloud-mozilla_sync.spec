@@ -1,7 +1,7 @@
 %define		pkgname	mozilla_sync
 Summary:	Service for synchronization Firefox settings between devices
 Name:		owncloud-%{pkgname}
-Version:	1.0
+Version:	1.2.2
 Release:	0.1
 License:	AGPL
 Group:		Development/Languages/PHP
